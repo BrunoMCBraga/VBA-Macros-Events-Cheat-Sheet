@@ -1,4 +1,4 @@
-# VBA-Macros-Events-Cheat-Sheet
+# VBA Macros: Events Cheat-Sheet
 Cheat-Sheet with events to look out for when analysing malicious Office documents. It is focused on Excel and Word since these are the most common ways to distribute malware.
 
 This is a spin-off of the material found on: https://bettersolutions.com (not mine). For further description of each directive, refer to the aforementioned website or MSDN.
