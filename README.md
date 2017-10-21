@@ -56,7 +56,7 @@ Worksheet_SelectionChange
 * AutoClose
 * AutoExit
 
-## Macro directives before events were introduced. Some of these are only available for Word or Excel.
+## Macro directives before events were introduced (before Office 97). Some of these are only available for Word or Excel.
 * Auto_Open
 * Auto_Close
 * Auto_Activate
