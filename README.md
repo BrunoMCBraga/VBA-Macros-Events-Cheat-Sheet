@@ -37,17 +37,17 @@ Application_DocumentBeforeClose->Document_Close->Application_WindowDeactivate
 * Application_WorkbookOpen
 
 ### Workbook Level
-Workbook_Activate/Deactivate
-Workbook_BeforeClose
-Workbook_Open
-Workbook_SheetActivate/SheetDeactivate
-Workbook_WindowActivate/WindowDeactivate
+* Workbook_Activate/Deactivate
+* Workbook_BeforeClose
+* Workbook_Open
+* Workbook_SheetActivate/SheetDeactivate
+* Workbook_WindowActivate/WindowDeactivate
 
 
 ### Worksheet Level
-Worksheet_Activate/Deactivate
-Worksheet_BeforeDoubleClick/BeforeRightClick
-Worksheet_SelectionChange
+* Worksheet_Activate/Deactivate
+* Worksheet_BeforeDoubleClick/BeforeRightClick
+* Worksheet_SelectionChange
 
 ## Word Auto Macros https://msdn.microsoft.com/en-us/vba/word-vba/articles/auto-macros
 * AutoExec
